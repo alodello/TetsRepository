@@ -1,4 +1,4 @@
 Hello world!
 123456
-a few words
+line from user2
 line from user1
